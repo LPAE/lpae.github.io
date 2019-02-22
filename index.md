@@ -2,10 +2,7 @@
 
 ## Índice
 
-- Projetos do Laboratório
 - [Projetos Integradores](#projetos-integradores)
-- Nossa Equipe
-- Bolsistas
 
 
 
@@ -13,4 +10,7 @@
 
 - Projeto Integrador 1 - Engenharia
 - [Projeto Integrador 2 - Engenharia](./PI2_Engenharia/index.html)
+- Projeto Integrador 3 - Engenharia
+- Projeto Integrador 1 - Tecnólogo
+- Projeto Integrador 2 - Tecnólogo
 
