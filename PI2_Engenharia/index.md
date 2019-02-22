@@ -8,7 +8,7 @@
     - [Textos](#textos)
     - [Vídeos](#videos)
 - [Datasheets](#datasheets)
-- [Notas Técnicas](#notas-tecnicas)
+- [Notas Técnicas](#notas-técnicas)
 
 # Sobre
 
@@ -23,9 +23,9 @@ possível uma tomada de decisão criteriosa.
 
 ### Artigos Projeto Integrador 2
 
-* [Alunos: Elvis Fernandes – Leonardo Benitez](./2018/Textos/Artigo_PI2_Elvis_e_Leonardo)
-* [Alunos: Julio Sidney Veras Pacheco – Victor Henrique Vicente](./2018/Textos/Artigo_PI2_Julio_e_Victor)
-* [Alunos: Diogo Tavares – José Nicolau Varela](./2018/Textos/Artigo_PI2_Diogo_e_Jose)
+* [Alunos: Elvis Fernandes – Leonardo Benitez](./2018/Textos/Artigo_PI2_Elvis_e_Leonardo.pdf)
+* [Alunos: Julio Sidney Veras Pacheco – Victor Henrique Vicente](./2018/Textos/Artigo_PI2_Julio_e_Victor.pdf)
+* [Alunos: Diogo Tavares – José Nicolau Varela](./2018/Textos/Artigo_PI2_Diogo_e_Jose.pdf)
 
 ## Videos
 
@@ -46,8 +46,8 @@ possível uma tomada de decisão criteriosa.
 
 # Datasheets
 
-* [HC-SR04](https://drive.google.com/file/d/1GHpjvBi2CS6NZtZ1dNnnbU-6HnUL7x3V/view?usp=sharing) (Sensor Ultrassônico)
-* [TCS230](https://drive.google.com/file/d/1GHpjvBi2CS6NZtZ1dNnnbU-6HnUL7x3V/view?usp=sharing) (Sensor de cor)
+* [HC-SR04](https://www.mouser.com/ds/2/813/HCSR04-1022824.pdf) (Sensor Ultrassônico)
+* [TCS230](http://www.w-r-e.de/robotik/data/opt/tcs230.pdf) (Sensor de cor)
 
 # Notas Técnicas
 
