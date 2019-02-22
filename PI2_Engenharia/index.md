@@ -1,11 +1,16 @@
 # Projeto Integrador 2 - Engenharia
 
 ## Índice
+
+* [Sobre](#sobre)
+
 - [2018](#2018)
     - [Textos](#textos)
     - [Vídeos](#videos)
 - [Datasheets](#datasheets)
 - [Notas Técnicas](#notas-tecnicas)
+
+# Sobre
 
 O objeto de estudo do Projeto Integrador II do Curso de Engenharia Eletrônica é a
 indústria 4.0. Neste projeto se aborda um conjunto de recursos tecnológicos destinados à otimizar processos fabris,
@@ -21,8 +26,6 @@ possível uma tomada de decisão criteriosa.
 * [Alunos: Elvis Fernandes – Leonardo Benitez](./2018/Textos/Artigo_PI2_Elvis_e_Leonardo)
 * [Alunos: Julio Sidney Veras Pacheco – Victor Henrique Vicente](./2018/Textos/Artigo_PI2_Julio_e_Victor)
 * [Alunos: Diogo Tavares – José Nicolau Varela](./2018/Textos/Artigo_PI2_Diogo_e_Jose)
-
-
 
 ## Videos
 
