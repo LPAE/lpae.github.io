@@ -33,7 +33,7 @@ class PgScreen:
                                          init_ref=[400, 300, 0],
                                          init_theta=0,
                                          init_phi=np.pi/5,
-                                         init_R=350))
+                                         init_R=150))
 
         self.part_list.append(SlavePart(self.part_list[-1],
                                         None,
@@ -41,7 +41,7 @@ class PgScreen:
                                         None,
                                         'slave',
                                         init_phi=2*np.pi/3,
-                                        init_R=400))
+                                        init_R=200))
 
         self.part_list.append(SlavePart(self.part_list[-1],
                                         None,
@@ -110,28 +110,39 @@ class PgScreen:
         elif self.main_state == 'run_state':
             self.screen.fill((0, 0, 0))
             for part in self.part_list:
+                # ------------------------------------------------------------------------------------------------------
                 pygame.draw.circle(self.screen,
                                    (225, 0, 0),
-                                   [part.ref[0]//2, (3*self.screen_size[1])//4 - part.ref[2]//2],
+                                   [part.ref[0]//3, (3*self.screen_size[1])//4 - part.ref[2]//3],
                                    5)
 
                 pygame.draw.aaline(self.screen,
                                    (255, 0, 0),
-                                   [part.ref[0]//2, (3*self.screen_size[1])//4 - part.ref[2]//2],
-                                   [part.x//2, (3*self.screen_size[1])//4 - part.z//2],
+                                   [part.ref[0]//3, (3*self.screen_size[1])//4 - part.ref[2]//3],
+                                   [part.x//3, (3*self.screen_size[1])//4 - part.z//3],
                                    True)
-
+                # ------------------------------------------------------------------------------------------------------
                 pygame.draw.circle(self.screen,
                                    (225, 0, 0),
-                                   [(self.screen_size[0]+part.ref[1])//2, (3*self.screen_size[1])//4 - part.ref[2]//2],
+                                   [(self.screen_size[0]+part.ref[1])//3, (3*self.screen_size[1])//4 - part.ref[2]//3],
                                    5)
 
                 pygame.draw.aaline(self.screen,
                                    (255, 0, 0),
-                                   [(self.screen_size[0]+part.ref[1])//2, (3*self.screen_size[1])//4 - part.ref[2]//2],
-                                   [(self.screen_size[0]+part.y)//2, (3*self.screen_size[1])//4 - part.z//2],
+                                   [(self.screen_size[0]+part.ref[1])//3, (3*self.screen_size[1])//4 - part.ref[2]//3],
+                                   [(self.screen_size[0]+part.y)//3, (3*self.screen_size[1])//4 - part.z//3],
                                    True)
+                # ------------------------------------------------------------------------------------------------------
+                pygame.draw.circle(self.screen,
+                                   (225, 0, 0),
+                                   [(self.screen_size[0]+part.ref[0])//2, (3*self.screen_size[1])//4 - part.ref[1]//2],
+                                   5)
 
+                pygame.draw.aaline(self.screen,
+                                   (255, 0, 0),
+                                   [(self.screen_size[0]+part.ref[0])//2, (3*self.screen_size[1])//4 - part.ref[1]//2],
+                                   [(self.screen_size[0]+part.x)//2, (3*self.screen_size[1])//4 - part.y//2],
+                                   True)
         pygame.display.flip()
 
 
