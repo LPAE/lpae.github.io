@@ -5,11 +5,11 @@ import time
 import threading
 import os
 import sys
-
+import cv2
 
 class PgScreen:
     def __init__(self,
-                 screen_size=(800, 600),
+                 screen_size=(900, 300),
                  clock_rate=30,
                  pixel_meter=100):
 
@@ -20,36 +20,38 @@ class PgScreen:
         pygame.init()
 
         self.screen = pygame.display.set_mode(screen_size)
-        self.main_state = 'start_state'
+        self.screen_array = pygame.surfarray.pixels3d(self.screen)
+        self.main_state = 'run_state'
         self.close_app = False
         self.clock = pygame.time.Clock()
 
         self.part_list = []
 
         self.part_list.append(MasterPart(None,
-                                         screen_size,
+                                         (screen_size[0]//3, screen_size[1]),
                                          None,
                                          'master',
-                                         init_ref=[400, 300, 0],
+                                         init_ref=[screen_size[0]//6, screen_size[1]//2, 0],
                                          init_theta=0,
                                          init_phi=np.pi/5,
-                                         init_R=150))
+                                         init_R=75))
 
         self.part_list.append(SlavePart(self.part_list[-1],
                                         None,
-                                        screen_size,
+                                        (screen_size[0]//3, screen_size[1]),
                                         None,
                                         'slave',
                                         init_phi=2*np.pi/3,
-                                        init_R=200))
+                                        init_R=60))
 
         self.part_list.append(SlavePart(self.part_list[-1],
                                         None,
-                                        screen_size,
+                                        (screen_size[0]//3, screen_size[1]),
                                         None,
                                         'slave',
+                                        color=(255, 255, 0),
                                         init_phi=np.pi/2,
-                                        init_R=50))
+                                        init_R=40))
 
         main_thread = threading.Thread(target=self.main_loop)
         main_thread.start()
@@ -57,6 +59,7 @@ class PgScreen:
     def check_key_events(self):
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
+                cv2.destroyAllWindows()
                 self.close_app = True
 
         if self.main_state == 'start_state':
@@ -109,44 +112,67 @@ class PgScreen:
 
         elif self.main_state == 'run_state':
             self.screen.fill((0, 0, 0))
+            pygame.draw.rect(self.screen, (0, 255, 255), [0,
+                                                          0,
+                                                          self.screen_size[0]//3,
+                                                          self.screen_size[1]], 2)
+
+            pygame.draw.rect(self.screen, (0, 255, 255), [self.screen_size[0]//3,
+                                                          0,
+                                                          2*self.screen_size[0]//6,
+                                                          self.screen_size[1]], 2)
+
+            pygame.draw.rect(self.screen, (0, 255, 255), [2*self.screen_size[0]//6,
+                                                          0,
+                                                          2*self.screen_size[0]//3,
+                                                          self.screen_size[1]], 2)
             for part in self.part_list:
                 # ------------------------------------------------------------------------------------------------------
                 pygame.draw.circle(self.screen,
-                                   (225, 0, 0),
-                                   [part.ref[0]//3, (3*self.screen_size[1])//4 - part.ref[2]//3],
+                                   part.color,
+                                   [part.ref[0], 7*self.screen_size[1]//10 - part.ref[2]],
                                    5)
 
                 pygame.draw.aaline(self.screen,
-                                   (255, 0, 0),
-                                   [part.ref[0]//3, (3*self.screen_size[1])//4 - part.ref[2]//3],
-                                   [part.x//3, (3*self.screen_size[1])//4 - part.z//3],
+                                   part.color,
+                                   [part.ref[0], 7*self.screen_size[1]//10 - part.ref[2]],
+                                   [part.x, 7*self.screen_size[1]//10 - part.z],
+                                   True)
+
+                pygame.draw.circle(self.screen,
+                                   (0, 255, 0),
+                                   [part.ref[0], 7*self.screen_size[1]//10 - part.ref[2]],
+                                   part.R,
+                                   1)
+
+                # ------------------------------------------------------------------------------------------------------
+                pygame.draw.circle(self.screen,
+                                   part.color,
+                                   [self.screen_size[0]//3+part.ref[1], 7*self.screen_size[1]//10 - part.ref[2]],
+                                   5)
+
+                pygame.draw.aaline(self.screen,
+                                   part.color,
+                                   [self.screen_size[0]//3+part.ref[1], 7*self.screen_size[1]//10 - part.ref[2]],
+                                   [self.screen_size[0]//3+part.y, 7*self.screen_size[1]//10 - part.z],
                                    True)
                 # ------------------------------------------------------------------------------------------------------
                 pygame.draw.circle(self.screen,
-                                   (225, 0, 0),
-                                   [(self.screen_size[0]+part.ref[1])//3, (3*self.screen_size[1])//4 - part.ref[2]//3],
+                                   part.color,
+                                   [2*self.screen_size[0]//3+part.ref[0], self.screen_size[1] - part.ref[1]],
                                    5)
 
                 pygame.draw.aaline(self.screen,
-                                   (255, 0, 0),
-                                   [(self.screen_size[0]+part.ref[1])//3, (3*self.screen_size[1])//4 - part.ref[2]//3],
-                                   [(self.screen_size[0]+part.y)//3, (3*self.screen_size[1])//4 - part.z//3],
-                                   True)
-                # ------------------------------------------------------------------------------------------------------
-                pygame.draw.circle(self.screen,
-                                   (225, 0, 0),
-                                   [(self.screen_size[0]+part.ref[0])//2, (3*self.screen_size[1])//4 - part.ref[1]//2],
-                                   5)
-
-                pygame.draw.aaline(self.screen,
-                                   (255, 0, 0),
-                                   [(self.screen_size[0]+part.ref[0])//2, (3*self.screen_size[1])//4 - part.ref[1]//2],
-                                   [(self.screen_size[0]+part.x)//2, (3*self.screen_size[1])//4 - part.y//2],
+                                   part.color,
+                                   [2*self.screen_size[0]//3+part.ref[0], self.screen_size[1] - part.ref[1]],
+                                   [2*self.screen_size[0]//3+part.x, self.screen_size[1] - part.y],
                                    True)
         pygame.display.flip()
 
 
 # ======================================================================================================================
-# screen_1 = PgScreen(screen_size=(1024, 768))
-screen_1 = PgScreen(screen_size=(1000, 500))
+screen_1 = PgScreen(screen_size=(1200, 400))
+
+from ComputerVision import opencv_test
+opencv_test(screen_1.screen_array)
 
