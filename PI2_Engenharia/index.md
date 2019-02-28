@@ -51,5 +51,9 @@ possível uma tomada de decisão criteriosa.
 * [Sensores de Distância](./Notas_tecnicas/sensores_imagem/index.md)
 * [Sensores de Cor](./Notas_tecnicas/sensores_cor/index.md)
 
+---
+
+
+
 
 
