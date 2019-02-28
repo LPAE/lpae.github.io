@@ -51,5 +51,8 @@ possível uma tomada de decisão criteriosa.
 
 # Notas Técnicas
 
-* [Sensor Temperatura Infravermelho](./Notas_tecnicas/Sensor%20de%20Temperatura%20Infravermelho.html)
-* [Sensor Distância](./Notas_tecnicas/JSN_SR04T.html)
+* [Sensores de Imagens](./Notas_tecnicas/sensores_imagens/index.html)
+
+* [Sensores de Temperatura](./Notas_tecnicas/sensores_temperatura/index.html)
+* [Sensores de Distância](./Notas_tecnicas/sensores_distancia/index.html)
+
