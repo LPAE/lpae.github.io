@@ -51,8 +51,8 @@ possível uma tomada de decisão criteriosa.
 
 # Notas Técnicas
 
-* [Sensores de Imagens](./Notas_tecnicas/sensores_imagens/index.html)
+* [Sensores de Imagem](./Notas_tecnicas/sensores_imagem/index.md)
 
-* [Sensores de Temperatura](./Notas_tecnicas/sensores_temperatura/index.html)
-* [Sensores de Distância](./Notas_tecnicas/sensores_distancia/index.html)
+* [Sensores de Temperatura](./Notas_tecnicas/sensores_temperatura/index.md)
+* [Sensores de Distância](./Notas_tecnicas/sensores_imagem/index.md)
 
