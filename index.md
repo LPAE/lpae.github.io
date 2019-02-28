@@ -14,3 +14,10 @@
 - Projeto Integrador 1 - Tecnólogo
 - Projeto Integrador 2 - Tecnólogo
 
+
+
+# Projetos do Laboratório
+
+* [Braço Robótico](./projetos/index.html)
+* [Bancada Inteligente](https://github.com/LPAE/Bancada-Esteira)
+
