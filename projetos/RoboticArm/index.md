@@ -2,5 +2,5 @@
 
 [Repositório do Projeto](https://github.com/LPAE/lpae.github.io/tree/master/projetos/RoboticArm)
 
-![https://camo.githubusercontent.com/b31f7081fc9cec6cc54ad205b93d79e007641184/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c736d616e6f656c2f6c7061652e6769746875622e696f2f6d61737465722f70726f6a65746f732f526f626f74696341726d2f53696d756c6174696f6e2f66756e64616d656e74616c732f61726d5f312e706e67]()
+![https://raw.githubusercontent.com/LPAE/lpae.github.io/master/projetos/RoboticArm/Simulation/fundamentals/arm_1.png]()
 
