@@ -44,15 +44,11 @@ possível uma tomada de decisão criteriosa.
 - [Alunos: Victor Henrique e Julio Sidney](https://www.youtube.com/watch?v=w2yupD6DVRs)
 - [Alunos: Diogo Tavares – José Nicolau Varela](https://www.youtube.com/watch?v=fNapAahfU8k)
 
-# Datasheets
-
-* [HC-SR04](https://www.mouser.com/ds/2/813/HCSR04-1022824.pdf) (Sensor Ultrassônico)
-* [TCS230](http://www.w-r-e.de/robotik/data/opt/tcs230.pdf) (Sensor de cor)
-
 # Notas Técnicas
 
 * [Sensores de Imagem](./Notas_tecnicas/sensores_imagem/index.md)
-
 * [Sensores de Temperatura](./Notas_tecnicas/sensores_temperatura/index.md)
 * [Sensores de Distância](./Notas_tecnicas/sensores_imagem/index.md)
+
+* [Sensores de Cor](./Notas_tecnicas/sensores_cor/index.md)
 
