@@ -18,6 +18,6 @@
 
 # Projetos do Laboratório
 
-* [Braço Robótico](./projetos/index.html)
+* [Braço Robótico](./projetos/RoboticArm/index.html)
 * [Bancada Inteligente](https://github.com/LPAE/Bancada-Esteira)
 
