@@ -2,7 +2,7 @@
 
 ### Notas Técnicas
 
-* [Teste do sensor ultrassônico JSN_SR04T waterproof](./Notas_tecnicas/sensores_cor/index.md)
+* [Teste do sensor ultrassônico JSN_SR04T waterproof](./JSN_SR04T.md)
 
 ##### Datasheets
 
