@@ -15,5 +15,7 @@ Reconhecimento de Digitos ([MNIST](https://en.wikipedia.org/wiki/MNIST_database)
 * [AI Digit Recognition with PiCamera (hackster.io)](https://www.hackster.io/dhq/ai-digit-recognition-with-picamera-2c017f)
 * [Layman installation guide for Keras and Tensorflow on RPi 3(medium.com)](https://medium.com/@paroskwan/layman-installation-guide-for-keras-and-tensorflow-on-rpi-3-38b84f3e59dc)
 
+Leitor de Código de Barras com o pacote ZBar
 
+* [Tutorial de introdução ao ZBar](https://github.com/lsmanoel/PythonCodes/blob/master/zbar/barcode_zbar.ipynb)
 
