@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e899b458-578f-4676-8d5d-b9b51bff2647" name="Default Changelist" comment="" />
+    <list default="true" id="e899b458-578f-4676-8d5d-b9b51bff2647" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/example_2view_2d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_2d.py" beforeDir="false" afterPath="$PROJECT_DIR$/example_2d.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example_2d.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2070">
-              <caret line="145" selection-start-line="145" selection-end-line="145" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example_2view_2d.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="172" column="44" lean-forward="true" selection-start-line="172" selection-start-column="44" selection-end-line="172" selection-end-column="44" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -25,17 +41,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ComputerVision.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../../../../../ifsc/powerEletronics/heatsink/heatsink_calculation.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="39" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,17 +109,16 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/Parts.py" />
         <option value="$PROJECT_DIR$/../../lpae.github.io/projetos/RoboticArm/Simulation/pygame_simulation/RoboticArm/example_2d.py" />
-        <option value="$PROJECT_DIR$/example_2d.py" />
         <option value="$PROJECT_DIR$/ComputerVision.py" />
         <option value="$PROJECT_DIR$/../../../../../../ifsc/powerEletronics/heatsink/heatsink_calculation.ipynb" />
+        <option value="$PROJECT_DIR$/example_2d.py" />
+        <option value="$PROJECT_DIR$/example_2view_2d.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="406" />
-    <option name="y" value="27" />
     <option name="width" value="960" />
-    <option name="height" value="741" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -156,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example_2d.py">
+  <component name="RunManager" selected="Python.example_2view_2d">
     <configuration name="ComputerVision" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RoboticArm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,27 +229,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example_2d" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="RoboticArm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/PythonEvns/pygame/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../lpae.github.io/projetos/RoboticArm/Simulation/pygame_simulation/RoboticArm" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../lpae.github.io/projetos/RoboticArm/Simulation/pygame_simulation/RoboticArm/example_2d.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="example_2d.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RoboticArm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,6 +242,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example_2d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_2view_2d" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RoboticArm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example_2view_2d.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,11 +381,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.example_2view_2d" />
         <item itemvalue="Python.example_2d.py" />
         <item itemvalue="Python.ComputerVision" />
         <item itemvalue="Python.pygameDrawExamples" />
         <item itemvalue="Python.Parts" />
-        <item itemvalue="Python.example_2d" />
       </list>
     </recent_temporary>
   </component>
@@ -416,22 +425,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="406" y="27" width="960" height="741" extended-state="4" />
+    <frame x="0" y="0" width="960" height="1080" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17307693" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17307693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.3312034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4946581" weight="0.3312034" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.399361" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50213677" side_tool="true" visible="true" weight="0.05" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5053419" side_tool="true" weight="0.3312034" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -452,16 +461,6 @@
     <entry file="file://$PROJECT_DIR$/../../lpae.github.io/projetos/RoboticArm/Simulation/pygame_simulation/RoboticArm/Controller.py" />
     <entry file="file://$PROJECT_DIR$/../../lpae.github.io/projetos/RoboticArm/Simulation/pygame_simulation/RoboticArm/Parts.py" />
     <entry file="file://$PROJECT_DIR$/../../lpae.github.io/projetos/RoboticArm/Simulation/pygame_simulation/RoboticArm/example_2d.py" />
-    <entry file="file://$PROJECT_DIR$/example_2d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="145" selection-start-line="145" selection-end-line="145" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Controller.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -485,17 +484,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ComputerVision.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../../ifsc/powerEletronics/heatsink/heatsink_calculation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComputerVision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_2d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_2view_2d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="172" column="44" lean-forward="true" selection-start-line="172" selection-start-column="44" selection-end-line="172" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

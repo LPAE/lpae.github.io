@@ -21,11 +21,20 @@ class PgScreen:
         pygame.init()
 
         self.screen = pygame.display.set_mode(screen_size)
-        self.screen_array = pygame.surfarray.pixels3d(self.screen)
+        # self.screen_array = pygame.surfarray.pixels3d(self.screen)
         self.main_state = 'run_state'
         self.close_app = False
         self.clock = pygame.time.Clock()
 
+        self.image_set_path = 'sprites'
+        self.hand_image_name = 'hand_1.png'
+        self.hand_image_path = os.path.join(self.image_set_path, self.hand_image_name)
+        self.hand_sprite = pygame.image.load(self.hand_image_path)
+        self.hand_sprite = pygame.transform.scale(self.hand_sprite,
+                                                  (self.hand_sprite.get_width()//4,
+                                                   self.hand_sprite.get_height()//4))
+
+        # --------------------------------------------------------------------------------------------------------------
         self.part_list = []
 
         self.part_list.append(MasterPart(None,
@@ -123,10 +132,6 @@ class PgScreen:
                                                           2*self.screen_size[0]//6,
                                                           self.screen_size[1]], 2)
 
-            pygame.draw.rect(self.screen, (0, 255, 255), [2*self.screen_size[0]//6,
-                                                          0,
-                                                          2*self.screen_size[0]//3,
-                                                          self.screen_size[1]], 2)
             for part in self.part_list:
                 # ------------------------------------------------------------------------------------------------------
                 pygame.draw.circle(self.screen,
@@ -157,23 +162,14 @@ class PgScreen:
                                    [self.screen_size[0]//3+part.ref[1], 7*self.screen_size[1]//10 - part.ref[2]],
                                    [self.screen_size[0]//3+part.y, 7*self.screen_size[1]//10 - part.z],
                                    True)
-                # ------------------------------------------------------------------------------------------------------
-                pygame.draw.circle(self.screen,
-                                   part.color,
-                                   [2*self.screen_size[0]//3+part.ref[0], self.screen_size[1] - part.ref[1]],
-                                   5)
 
-                pygame.draw.aaline(self.screen,
-                                   part.color,
-                                   [2*self.screen_size[0]//3+part.ref[0], self.screen_size[1] - part.ref[1]],
-                                   [2*self.screen_size[0]//3+part.x, self.screen_size[1] - part.y],
-                                   True)
+            self.screen.blit(self.hand_sprite, (self.part_list[-1].ref[0],
+                                                7*self.screen_size[1]//10 - self.part_list[-1].ref[2]-22))
+
         pygame.display.flip()
 
 
 # ======================================================================================================================
 screen_1 = PgScreen(screen_size=(1200, 400))
 
-from ComputerVision import opencv_test
-opencv_test(screen_1.screen_array)
 
