@@ -1,11 +1,3 @@
-# LPAE
-
-## Índice
-
-- [Projetos Integradores](#projetos-integradores)
-
-
-
 # Projetos Integradores
 
 - Projeto Integrador 1 - Engenharia

@@ -162,3 +162,5 @@ Distance: 33cm
 Distance: 33cm
 
 Como é possível observar no resultado acima, esse sensor pode acabar apresentado resultados com alguns valores zeros durante uma sequência de medições. Logo é necessário fazer tratamento do dado após a aquisição (como um filtro de média móvel).
+
+[Voltar](https://lpae.github.io/)

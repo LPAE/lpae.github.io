@@ -96,3 +96,4 @@ A seguir um teste utilizando o sensor de temperatura e um temômetro pistola à 
 | Água fria do bebedouro |   16    |  22.5  |  17.5   |   26   |
 |          Gelo          |   0.5   |  8.4   |    1    |   19   |
 
+[Voltar](https://lpae.github.io/)
