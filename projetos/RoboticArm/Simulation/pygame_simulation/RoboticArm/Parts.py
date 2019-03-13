@@ -49,7 +49,7 @@ class SolidPart:
     @sample_rate.setter
     def sample_rate(self, value):
         self._sample_rate = int(value)
-        self.sample_period = 1/value
+        self._sample_period = 1/value
 
     @property
     def sample_period(self):
