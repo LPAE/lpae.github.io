@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R_pot
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR_pot_1
+Added Member To Class: ClassName=mainSheet Member=Component P_input Alim
+Added Room: Name=mainSheet
