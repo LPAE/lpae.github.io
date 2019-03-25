@@ -1,13 +1,15 @@
 # ObjectSensing
 
+---
 
-[Dlib](./Dlib/index.md)
+- [Dlib](./Dlib/index.md)
+
+---
 
 Ferramentas para *image annotation*:
 
-[ImgLab](./ImgLab/index.md)
-
-[Colabeler](./Colabeler/index.md)
+- [ImgLab](./ImgLab/index.md)
+- [Colabeler](./Colabeler/index.md)
 
 
 
