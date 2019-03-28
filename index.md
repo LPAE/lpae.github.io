@@ -15,3 +15,4 @@
 * [Theremin](./projetos/Theremin/index.md)
 * [Detecção de Objetos](./projetos/ObjectSensing/index.md)
 
+#Perfil [github.com/LPAE](https://github.com/LPAE)
