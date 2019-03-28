@@ -1,16 +1,5 @@
 # Projeto Integrador 2 - Engenharia
 
-## Índice
-
-* [Sobre](#sobre)
-
-- [2018](#2018)
-    - [Textos](#textos)
-    - [Vídeos](#videos)
-- [Datasheets](#datasheets)
-- [Notas Técnicas](#notas-técnicas)
-- [Repositório de Projetos](#repositorio)
-
 # Sobre
 
 O objeto de estudo do Projeto Integrador II do Curso de Engenharia Eletrônica é a
@@ -30,7 +19,6 @@ possível uma tomada de decisão criteriosa.
 * [Sensores de Cor](./Notas_tecnicas/sensores_cor/index.md)
 
 # Repositório [github.com/LPAE/pi2_eng_19_1](https://github.com/LPAE/pi2_eng_19_1)
----
 
 [Voltar](https://lpae.github.io/)
 

@@ -10,7 +10,7 @@
 
 # Repositório [ObjectSensing](https://github.com/LPAE/lpae.github.io/tree/master/projetos/ObjectSensing)
 [Voltar](https://lpae.github.io/)
-***
+
 
 
 
