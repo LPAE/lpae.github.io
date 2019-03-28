@@ -3,14 +3,13 @@
 ## Índice
 
 - [Sobre](#sobre)
-- [Repositório](#Repositório de Rrojetos)
+- [Repositório](#repositório)
 - [Notas Técnicas](#notas-técnicas)
 
 # Sobre
----
+
 # Repositório [github.com/LPAE/pi1_tec_19_1](https://github.com/LPAE/pi1_tec_19_1)
 
-# Notas Técnicas
 ---
 [Voltar](https://lpae.github.io/)
 
