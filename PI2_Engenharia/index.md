@@ -9,6 +9,7 @@
     - [Vídeos](#videos)
 - [Datasheets](#datasheets)
 - [Notas Técnicas](#notas-técnicas)
+- [Repositório de Projetos](#repositorio)
 
 # Sobre
 
@@ -51,6 +52,7 @@ possível uma tomada de decisão criteriosa.
 * [Sensores de Distância](./Notas_tecnicas/sensores_distancia/index.md)
 * [Sensores de Cor](./Notas_tecnicas/sensores_cor/index.md)
 
+# Repositório [github.com/LPAE/pi2_eng_19_1](https://github.com/LPAE/pi2_eng_19_1)
 ---
 
 [Voltar](https://lpae.github.io/)
