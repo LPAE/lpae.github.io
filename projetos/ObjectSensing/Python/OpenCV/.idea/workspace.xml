@@ -273,7 +273,7 @@
       <updated>1553800322430</updated>
       <workItem from="1553800323851" duration="4937000" />
       <workItem from="1553805284307" duration="872000" />
-      <workItem from="1553806177380" duration="2908000" />
+      <workItem from="1553806177380" duration="3496000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;add webcam scripts">
       <created>1553808408583</created>
@@ -286,17 +286,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8717000" />
+    <option name="totallyTimeSpent" value="9305000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16818182" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11846318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32970452" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22198953" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -311,7 +311,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.4988399" weight="0.32954547" />
-      <window_info anchor="right" x="0" y="0" width="291" height="568" id="Documentation" order="4" sideWeight="0.5011601" side_tool="true" visible="true" weight="0.32954547" />
+      <window_info anchor="right" x="0" y="0" width="291" height="568" id="Documentation" order="4" sideWeight="0.5011601" side_tool="true" visible="true" weight="0.23212379" />
       <window_info anchor="right" id="Database" order="5" weight="0.32954547" />
     </layout>
   </component>
