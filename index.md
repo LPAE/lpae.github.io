@@ -1,6 +1,6 @@
 # Projetos Integradores
 
-- [Projeto Integrador 1 - Tecnólogo](./PI1_Tecnologo/index.md)
+- [Projeto Integrador 1 - Tecnólogo](./PI1_Tecnologo/index.html)
 - [Projeto Integrador 2 - Engenharia](./PI2_Engenharia/index.html)
 - Projeto Integrador 3 - Engenharia
 - Projeto Integrador 1 - Tecnólogo
