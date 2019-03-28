@@ -18,32 +18,9 @@ indústria 4.0. Neste projeto se aborda um conjunto de recursos tecnológicos de
 assim como realizar o seu monitoramento com vistas a se conseguir uma condição de controle, a partir da qual seja
 possível uma tomada de decisão criteriosa.
 
-# 2018
+## [Textos](./textos/index.md)
 
-## Textos
-
-### Artigos Projeto Integrador 2
-
-* [Alunos: Elvis Fernandes – Leonardo Benitez](./2018/Textos/Artigo_PI2_Elvis_e_Leonardo.pdf)
-* [Alunos: Julio Sidney Veras Pacheco – Victor Henrique Vicente](./2018/Textos/Artigo_PI2_Julio_e_Victor.pdf)
-* [Alunos: Diogo Tavares – José Nicolau Varela](./2018/Textos/Artigo_PI2_Diogo_e_Jose.pdf)
-
-## Videos
-
-### Esteira em Funcionamento
-
-- [Alunos: Ednei Freiberger e Rayan Steinbach](https://www.youtube.com/watch?v=_5rpgHqbXF8)
-
-### Sensor de Presença
-
-* [Alunos: Ednei Freiberger e Rayan Steinbach](https://www.youtube.com/watch?v=DB-b-mfmIXA)
-* [Alunos: Victor Henrique e Julio Sidney](https://www.youtube.com/watch?v=5sZE8e_AUqQ)
-* [Alunos: Diogo Tavares – José Nicolau Varela](https://www.youtube.com/watch?v=un3m_uIF88Y)
-
-### Sensor Utrassônico
-
-- [Alunos: Victor Henrique e Julio Sidney](https://www.youtube.com/watch?v=w2yupD6DVRs)
-- [Alunos: Diogo Tavares – José Nicolau Varela](https://www.youtube.com/watch?v=fNapAahfU8k)
+## [Vídeos](./videos/index.md)
 
 # Notas Técnicas
 
