@@ -1,21 +1,20 @@
 # [ObjectSensing](https://github.com/LPAE/lpae.github.io/tree/master/projetos/ObjectSensing)
----
 
-- [Dlib](./Dlib/index.md)
-
+## Ferramentas de Processamento:
+- [Dlib - python](./Dlib/index.md)
+- [OpenCV e Webcam - python](https://github.com/LPAE/lpae.github.io/tree/master/projetos/ObjectSensing/Python/OpenCV/webcam_example_1)
 ---
 
 ## Ferramentas para *image annotation*:
-
-- [ImgLab](./ImgLab/index.md)
+- [ImgLab - Online](./ImgLab/index.md)
 - [Colabeler](./Colabeler/index.md)
-
-## Python, OpenCV e Webcam
-
-- [Exemplos de código](https://github.com/LPAE/lpae.github.io/tree/master/projetos/ObjectSensing/Python/OpenCV/webcam_example_1)
-
 ---
+
+
+# Repositório [ObjectSensing](https://github.com/LPAE/lpae.github.io/tree/master/projetos/ObjectSensing)
 [Voltar](https://lpae.github.io/)
+***
+
 
 
 
