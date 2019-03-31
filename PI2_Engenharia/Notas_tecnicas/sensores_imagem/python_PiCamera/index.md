@@ -19,4 +19,5 @@ Leitor de Código de Barras com o pacote ZBar
 
 * [Tutorial de introdução ao ZBar](https://github.com/lsmanoel/PythonCodes/blob/master/zbar/barcode_zbar.ipynb)
 
+---
 [Voltar](https://lpae.github.io/)
