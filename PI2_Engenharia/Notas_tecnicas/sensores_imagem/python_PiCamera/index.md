@@ -7,6 +7,7 @@
 Pi Camera
 
 * [Documentation](https://picamera.readthedocs.io/en/release-1.13/)
+* [Install OpenCV 4 on your Raspberry Pi](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/)
 * [Getting started with picamera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
 * [Accessing the Raspberry Pi Camera with OpenCV and Python](https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/)
 
