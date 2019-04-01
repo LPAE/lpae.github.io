@@ -10,7 +10,8 @@
 3. [**Guia de Instalação do Git**](https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459)
 
 # Ferramentas
-1. Git com interface gráfica: [GitKraken](https://support.gitkraken.com/)
+1. [Download do Git](https://git-scm.com/downloads)
+2. Git com interface gráfica: [GitKraken](https://support.gitkraken.com/)
 
 ---
 [Voltar](https://lpae.github.io/)
