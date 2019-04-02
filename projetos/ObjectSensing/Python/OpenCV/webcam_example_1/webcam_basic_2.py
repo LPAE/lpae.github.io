@@ -6,7 +6,7 @@ capture = cv2.VideoCapture(1)
 while 1:
     ret, frame = capture.read()
 
-    frame = cv2.resize(frame, None, fx=5, fy=5, interpolation=cv2.INTER_LINEAR)
+    # frame = cv2.resize(frame, None, fx=5, fy=5, interpolation=cv2.INTER_LINEAR)
 
     cv2.imshow('frame', frame)
 
