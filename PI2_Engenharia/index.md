@@ -18,7 +18,7 @@ possível uma tomada de decisão criteriosa.
 * [Sensores de Distância](./Notas_tecnicas/sensores_distancia/index.md)
 * [Sensores de Cor](./Notas_tecnicas/sensores_cor/index.md)
 
-# Repositório [github.com/LPAE/pi2_eng_19_1](https://github.com/LPAE/pi2_eng_19_1)
+# [Repositórios](./repo_index.md)
 
 ---
 [Voltar](https://lpae.github.io/)
