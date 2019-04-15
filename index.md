@@ -3,7 +3,7 @@
 
 # Técnologo
 - [Projeto Integrador 1](./PI1_Tecnologo/index.html)
-- [Deselvolvimento de Produto](./DesProduto_Tecnologo/index.html)
+- [Deselvolvimento de Projeto](./DesProjeto_Tecnologo/index.html)
 
 # Projetos do Laboratório
 - [Braço Robótico](./projetos/RoboticArm/index.md)
