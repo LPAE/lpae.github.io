@@ -4,12 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/webcam_example_1/webcam_basic_2.py" line="21" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fa50e2d-e84f-4b88-83f5-1886c4abad6b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/OpenCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OpenCV.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webcam_example_1/webcam_basic_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/webcam_example_1/webcam_basic_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="4fa50e2d-e84f-4b88-83f5-1886c4abad6b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +29,12 @@
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/webcam_example_1/webcam_basic_2.py">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="300">
-                    <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+                    <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
                     <folding>
                       <marker date="1554225787396" expanded="true" signature="117:198" ph="..." />
                     </folding>
@@ -114,10 +109,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2168" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="431" />
+    <option name="y" value="121" />
     <option name="width" value="798" />
-    <option name="height" value="900" />
+    <option name="height" value="898" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -125,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,13 +132,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Python/virtual_evn_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../projetos/Theremin/python_fft/Audio-Spectrum-Analyzer-in-Python" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -303,6 +299,7 @@
       <workItem from="1553806177380" duration="4337000" />
       <workItem from="1553909732077" duration="741000" />
       <workItem from="1554225724174" duration="5213000" />
+      <workItem from="1554400626367" duration="114000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;add webcam scripts">
       <created>1553808408583</created>
@@ -315,13 +312,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16100000" />
+    <option name="totallyTimeSpent" value="16214000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2168" y="0" width="798" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="-2" y="0" width="1370" height="750" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21276596" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.124242425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -341,7 +337,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.49798116" weight="0.32924226" />
-      <window_info anchor="right" x="0" y="0" width="291" height="568" id="Documentation" order="4" sideWeight="0.5051814" side_tool="true" weight="0.19946809" />
+      <window_info anchor="right" x="0" y="0" width="291" height="568" id="Documentation" order="4" sideWeight="0.5051814" side_tool="true" visible="true" weight="0.112878785" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.49481866" weight="0.19946809" />
     </layout>
   </component>
@@ -378,7 +374,7 @@
     <entry file="file://$PROJECT_DIR$/webcam_example_1/webcam_basic_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <marker date="1554225787396" expanded="true" signature="117:198" ph="..." />
           </folding>

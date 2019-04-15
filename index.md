@@ -1,6 +1,9 @@
-# Projetos Integradores
-- [Projeto Integrador 1 - Tecnólogo](./PI1_Tecnologo/index.html)
-- [Projeto Integrador 2 - Engenharia](./PI2_Engenharia/index.html)
+# Engenharia
+- [Projeto Integrador 2](./PI2_Engenharia/index.html)
+
+# Técnologo
+- [Projeto Integrador 1](./PI1_Tecnologo/index.html)
+- [Deselvolvimento de Produto](./DesProduto_Tecnologo/index.html)
 
 # Projetos do Laboratório
 - [Braço Robótico](./projetos/RoboticArm/index.md)

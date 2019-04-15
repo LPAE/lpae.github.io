@@ -1,6 +1,6 @@
 # Projeto Integrador 1 - Técnologo
 
-# Repositório [github.com/LPAE/pi1_tec_19_1](https://github.com/LPAE/pi1_tec_19_1)
+# [Repositórios](./repo_index.md)
 
 ---
 [Voltar](https://lpae.github.io/)
