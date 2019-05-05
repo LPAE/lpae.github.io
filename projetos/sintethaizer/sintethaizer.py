@@ -4,7 +4,7 @@ import sounddevice as sd
 import matplotlib.pyplot as plt
 
 
-class sintethaizer:
+class Sintethaizer:
     def __init__(self,
                  buffer_array=None,
                  fs=44100,
@@ -35,6 +35,19 @@ class sintethaizer:
                                   ftype=ftype)
 
             self.buffer_array = sg.lfilter(b, a, self.buffer_array)
+
+    def lowpass(self,
+                N=4,
+                cutoff=0.01):
+
+      b, a = sg.butter(N, cutoff, analog=False)
+
+      # w, h = sg.freqs(b, a)
+      # plt.semilogx(w, 20 * np.log10(abs(h)))
+      # plt.show()
+
+      self.buffer_array = sg.filtfilt(b, a, self.buffer_array)
+
 
     def dc_offset(self,
                   ampl=1):
@@ -89,16 +102,43 @@ class sintethaizer:
         plt.plot(self.buffer_array)
         plt.show()
 
-    def play_sound(self):
+    def play_sound(self, loop=True):
         sd.default.samplerate = self.fs
-        sd.play(self.buffer_array, loop=True)
+        sd.play(self.buffer_array, loop=loop)
         sd.wait()
 
+    def stop_sound(self):
+        sd.default.samplerate = self.fs
+        sd.stop()
 
-sint_1 = sintethaizer()
-sint_1.sawtooth_envelop(110.0, ampl=0.2)
-sint_1.step_envelop(4.0, duty=0.7)
-sint_1.sin_envelop(1)
+
+sint_1 = Sintethaizer()
+
+# sint_1.sawtooth_envelop(110.0, ampl=1)
+# sint_1.sawtooth_envelop(220.0, ampl=1.2)
+#
+
+sint_1.sawtooth_envelop(55)
+
+# sint_1.sin_envelop(3, ampl=1.5)
+# sint_1.sin_envelop(4, ampl=1.5)
+# sint_1.sin_envelop(4, ampl=1.5)
+
+# sint_1.step_envelop(8, ampl=1.1, duty=0.6)
+
+sint_1.sin_envelop(1, ampl=2)
+
+#sint_1.step_envelop(1, duty=0.75)
+#sint_1.step_envelop(3, duty=0.75)
+sint_1.step_envelop(8, duty=0.50)
+
+# sint_1.sin_envelop(0.125, ampl=1.1)
+
+sint_1.lowpass()
+
 
 sint_1.plot_wave()
-sint_1.play_sound()
+sint_1.play_sound(loop=True)
+
+
+
