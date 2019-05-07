@@ -5,7 +5,7 @@
 - [Projeto Integrador 1](./PI1_Tecnologo/index.html)
 - [Deselvolvimento de Projeto](./DesProjeto_Tecnologo/index.html)
 
-# Projetos do Laboratório
+# [Estudos](./projetos/)
 - [Braço Robótico](./projetos/RoboticArm/index.md)
 - [Bancada Inteligente](https://github.com/LPAE/Bancada-Esteira)
 - [Theremin](./projetos/Theremin/index.md)

@@ -1,4 +1,4 @@
-import sintetheizer.Sintetheizer as 
+from sintetheizer import Sintetheizer
 
 sint_1 = Sintetheizer()
 
@@ -8,17 +8,17 @@ sint_1 = Sintetheizer()
 
 sint_1.sawtooth_envelop(55)
 
-# sint_1.sin_envelop(3, ampl=1.5)
+sint_1.sin_envelop(3, ampl=1.5)
 # sint_1.sin_envelop(4, ampl=1.5)
 # sint_1.sin_envelop(4, ampl=1.5)
 
-# sint_1.step_envelop(8, ampl=1.1, duty=0.6)
+sint_1.step_envelop(8, ampl=1.1, duty=0.7)
 
-sint_1.sin_envelop(1, ampl=2)
+# sint_1.sin_envelop(1, ampl=2)
 
-sint_1.step_envelop(1, duty=0.75)
-sint_1.step_envelop(3, duty=0.75)
-sint_1.step_envelop(8, duty=0.50)
+# sint_1.step_envelop(1, duty=0.75)
+# sint_1.step_envelop(3, duty=0.75)
+# sint_1.step_envelop(8, duty=0.50)
 
 # sint_1.sin_envelop(0.125, ampl=1.1)
 
