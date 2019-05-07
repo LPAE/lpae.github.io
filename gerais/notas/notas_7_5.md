@@ -6,5 +6,11 @@ No site: http://sites.florianopolis.ifsc.edu.br/lpae/
 2. add link **Estudos**
 3. add link **repositório**
 4. add fotos **Renan** e **Espirro**
+5. add links Redundantes para as paginas dos PI
+6. Atualizar em todos os projetos integradores a página inicial padrão contendo link para o repositório.
+7. Justificar todos os textos.
 
+Pautas da Próxima Reunião:
+
+1. Palavras chaves para envio de e-mail.
 
