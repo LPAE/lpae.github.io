@@ -4,6 +4,8 @@
 - [Bancada Inteligente](https://github.com/LPAE/Bancada-Esteira)
 - [Theremin](./projetos/Theremin/index.md)
 - [Detecção de Objetos](./projetos/ObjectSensing/index.md)
+- [Detecção de Objetos](./projetos/ObjectSensing/index.md)
+- [Python Sintetheizer](./projetos/Sintetheizer/index.md)
 
 ---
 [Voltar](https://lpae.github.io/)
