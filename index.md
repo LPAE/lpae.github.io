@@ -11,11 +11,15 @@
 # [Estudos](./projetos/index.md)
 
 
+---
 # Utilidades
 - [AltiumLibs](https://github.com/LPAE/lpae.github.io/tree/master/projetos/AltiumLibs)
 - [GITHUB do **Projeto Integrador**](./gerais/github/index.md)
 
+---
 # [Informações Gerais](./gerais/index.md)
+
+---
 # Perfil [github.com/LPAE](https://github.com/LPAE)
 
 **daelnifsclpae@gmail.com**
