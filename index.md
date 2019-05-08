@@ -8,7 +8,7 @@
 - [Deselvolvimento de Projeto](./DesProjeto_Tecnologo/index.html)
 
 ---
-# [Estudos](./projetos/index.md)
+# [Estudos do Laboratório](./projetos/index.md).
 
 
 ---
