@@ -1,11 +1,11 @@
 # Projetos do Labratóro
 
-- [Braço Robótico](./projetos/RoboticArm/index.md)
+- [Braço Robótico](./RoboticArm/index.md)
 - [Bancada Inteligente](https://github.com/LPAE/Bancada-Esteira)
-- [Theremin](./projetos/Theremin/index.md)
-- [Detecção de Objetos](./projetos/ObjectSensing/index.md)
-- [Detecção de Objetos](./projetos/ObjectSensing/index.md)
-- [Python Sintetheizer](./projetos/Sintetheizer/index.md)
+- [Theremin](./Theremin/index.md)
+- [Detecção de Objetos](./ObjectSensing/index.md)
+- [Detecção de Objetos](./ObjectSensing/index.md)
+- [Python Sintetheizer](./Sintetheizer/index.md)
 
 ---
 [Voltar](https://lpae.github.io/)
