@@ -1,4 +1,4 @@
-# Projetos do Labratóro
+# Estudos
 
 - [Braço Robótico](./RoboticArm/index.md)
 - [Bancada Inteligente](https://github.com/LPAE/Bancada-Esteira)
