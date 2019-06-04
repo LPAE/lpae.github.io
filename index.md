@@ -8,12 +8,12 @@
 - [Deselvolvimento de Projeto](./DesProjeto_Tecnologo/index.html)
 
 ---
-# [Estudos do Laboratório](./projetos/index.md).
+# [Estudos do Laboratório](./estudos/index.md).
 
 
 ---
 # Utilidades
-- [AltiumLibs](https://github.com/LPAE/lpae.github.io/tree/master/projetos/AltiumLibs)
+- [AltiumLibs](https://github.com/LPAE/lpae.github.io/tree/master/estudos/AltiumLibs)
 - [GITHUB do **Projeto Integrador**](./gerais/github/index.md)
 
 ---
