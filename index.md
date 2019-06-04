@@ -1,11 +1,11 @@
 # Projetos Integradores
 
 ### Engenharia
-- [Projeto Integrador 2](./PI2_Engenharia/index.html)
+- [Projeto Integrador 2](./PI2_Engenharia/index.md)
 
 ### Técnologo
-- [Projeto Integrador 1](./PI1_Tecnologo/index.html)
-- [Deselvolvimento de Projeto](./DesProjeto_Tecnologo/index.html)
+- [Projeto Integrador 1](./PI1_Tecnologo/index.md)
+- [Deselvolvimento de Projeto](./DesProjeto_Tecnologo/index.md)
 
 ---
 # [Estudos do Laboratório](./estudos/index.md).
