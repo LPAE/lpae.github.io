@@ -1,4 +1,4 @@
-# Repositório [RoboticArm](https://github.com/LPAE/lpae.github.io/tree/master/projetos/RoboticArm)
+# Repositório [RoboticArm](https://github.com/LPAE/lpae.github.io/tree/master/estudos/RoboticArm)
 
 [Voltar](https://lpae.github.io/)
 

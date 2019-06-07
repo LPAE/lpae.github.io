@@ -1,4 +1,4 @@
-# Repositório do [Projeto Theremin](https://github.com/LPAE/lpae.github.io/tree/master/projetos/Theremin)
+# Repositório do [Projeto Theremin](https://github.com/LPAE/lpae.github.io/tree/master/estudos/Theremin)
 
 [Voltar](https://lpae.github.io/)
 
