@@ -4,7 +4,7 @@
 
 Software para demarcação de *labels*, *landmarks* e *boundingbox* em *dataset* de imagens:
 
-![](https://raw.githubusercontent.com/LPAE/lpae.github.io/master/projetos/ObjectSensing/ImgLab/image/imglab_robotArmExample.gif)
+![](https://raw.githubusercontent.com/LPAE/lpae.github.io/master/estudos/ObjectSensing/ImgLab/image/imglab_robotArmExample.gif)
 
 ---
 
