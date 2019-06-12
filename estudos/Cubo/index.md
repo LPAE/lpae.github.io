@@ -7,5 +7,8 @@
 
 ![cubo inferior](https://github.com/LPAE/lpae.github.io/blob/master/estudos/Cubo/Imagens/cubo%20inferior.jpeg?raw=true)
 
+
+![programação do cubo](https://github.com/LPAE/lpae.github.io/blob/master/estudos/Cubo/Imagens/giphy.gif)
+
 [Voltar](https://lpae.github.io/)
 
