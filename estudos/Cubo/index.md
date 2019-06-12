@@ -10,13 +10,14 @@
 
 ![programação do cubo](https://github.com/LPAE/lpae.github.io/blob/master/estudos/Cubo/Imagens/giphy.gif)
 
-Autor:
+#Autor:
 Rodrigo Belisário Ramos
-
+<br/>
 Graduando em Engenharia Eletrônica - Undergraduate Student in Electronic Engineering
 Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina - IF-SC - Campus Florianópolis
-
+</br>
 Tecnólogo em Sistemas Eletrônicos - Technologist in Electronic Systems
+<br/>
 Contato:
 rodbelisario@gmail.com
 
