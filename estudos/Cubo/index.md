@@ -10,7 +10,7 @@
 
 ![programação do cubo](https://github.com/LPAE/lpae.github.io/blob/master/estudos/Cubo/Imagens/giphy.gif)
 
-#Autor:
+__Autor:__
 Rodrigo Belisário Ramos
 <br/>
 Graduando em Engenharia Eletrônica - Undergraduate Student in Electronic Engineering
