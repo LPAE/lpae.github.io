@@ -1,0 +1,7 @@
+Começamos com a idéia de construir um drone dividida em 3 partes:a armação, a programação, e o sistema de navegação
+</p>
+a armação foi usado um flame wheel
+</p>
+a programação usamos o arducopter
+</p>
+e o sistema de navegação por modulo de gps
