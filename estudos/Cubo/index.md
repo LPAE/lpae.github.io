@@ -8,7 +8,7 @@
 ![cubo inferior](https://github.com/LPAE/lpae.github.io/blob/master/estudos/Cubo/Imagens/cubo%20inferior.jpeg?raw=true)
 
 
-![programação do cubo](https://github.com/LPAE/lpae.github.io/blob/master/estudos/Cubo/Imagens/giphy.gif)
+![programação do cubo](https://github.com/LPAE/lpae.github.io/blob/master/estudos/Cubo/Imagens/giphy.gif?raw=true)
 
 __Autor:__
 Rodrigo Belisário Ramos
