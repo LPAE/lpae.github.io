@@ -2,6 +2,8 @@
 
 [Voltar](https://lpae.github.io/)
 
+- [Arducopter](./DRONE/informações/index.md)
+
   ![DRONE](https://github.com/Kallarari/DRONE-/blob/master/WhatsApp%20Image%202019-05-31%20at%2015.27.39%20(1).jpeg?raw=true "motor do drone")
 
 
