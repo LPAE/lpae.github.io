@@ -8,7 +8,7 @@
 - [Jogo Machine Revolution - Pygame e Tensorflow](https://github.com/lsmanoel/MachineRevolution)
 - [Estudos sobre o Projeto Integrador](./EstudosPI/index.md)
 - [Drone](./DRONE/index.md)
-- [Cubo de Leds](./leds cube/index.md)
+- [Cubo de Leds](./Cubo/index.md)
 
 </br>
 ---
