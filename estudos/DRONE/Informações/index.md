@@ -5,7 +5,23 @@ O Arducopter é um APM (Arduino Pilot Meta), ou seja, um cotrolador de voo de c�
 
 ![Arducopter](https://github.com/LPAE/lpae.github.io/blob/master/estudos/DRONE/Informa%C3%A7%C3%B5es/imagens/arducopter.jpg?raw=true)
 
-Este componente de nosso drone realiza altomáticamente a navegação, estabilização e a telemetria.   E pode ser controlado pelo controle ou diretamente por uma programação de waypoints configurada anteriormente. 
+Este componente de nosso drone realiza altomáticamente a navegação, estabilização e a telemetria.   E pode ser controlado pelo controle ou diretamente por uma programação de waypoints configurada anteriormente.  Ele dará uma infinidade de recursos e modos de vôos, ao todo são 14 modos, dentre eles:
+
+Stabilize - Drone fica na horizontal, estabilizado sem precisar de comandos para não cair;
+
+Alt Hold - Sua aceleração é controlada automaticamente c/ finalidade de manter a mesma altura;
+
+Headless Mode - O drone sempre terá a mesma frente e trás, não invertendo os comandos do rádio controle caso a traseira dele não esteja para você;
+
+Loiter (MODO GPS) - Mantem a posição independente do vento ou qualquer outro fator;
+
+Return to launch - Retorna sozinho para posição de decolagem;
+
+Auto - Vôo autônomo, faz uma missão programa pelo computador;
+
+Land - Pousa sozinho;
+
+Failsafe - Caso seu drone perca sinal do rádio controle ou esteja acabando a bateria, ele retornará sozinho e pousará do local da decolagem.
 
 
  Exemplo de controle por waypoints 
