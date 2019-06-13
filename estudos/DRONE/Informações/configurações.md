@@ -1,5 +1,7 @@
 # Configurações do aplicativo.
 [Voltar](https://lpae.github.io/estudos/DRONE/)
+
+
 Para configurar o Arducopter você precisará de alguns aplicativos:
 - [Mission Planer](http://ardupilot.org/planner/index.html#home)
 - [QGround control](http://qgroundcontrol.com/)
