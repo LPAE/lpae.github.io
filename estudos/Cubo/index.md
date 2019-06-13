@@ -11,8 +11,13 @@
 ![programação do cubo](https://github.com/LPAE/lpae.github.io/blob/master/estudos/Cubo/Imagens/giphy.gif?raw=true)
 
 __Autor:__
-Rodrigo Belisário Ramos
+Rodrigo Belisário Ramos,Raniele Ribeiro de Souza
 <br/>
+
+__Professor:__
+Charles Borges de Lima
+<br>
+
 Graduando em Engenharia Eletrônica - Undergraduate Student in Electronic Engineering
 Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina - IF-SC - Campus Florianópolis
 </br>
