@@ -18,7 +18,7 @@ __Professor:__
 Charles Borges de Lima
 <br>
 
-Graduando em Engenharia Eletrônica - Undergraduate Student in Electronic Engineering
+
 Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina - IF-SC - Campus Florianópolis
 </br>
 Tecnólogo em Sistemas Eletrônicos - Technologist in Electronic Systems
