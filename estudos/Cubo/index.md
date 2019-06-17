@@ -20,9 +20,8 @@ Charles Borges de Lima
 
 
 Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina - IF-SC - Campus Florianópolis
-</br>
-Tecnólogo em Sistemas Eletrônicos - Technologist in Electronic Systems
 <br/>
+
 Contato:
 rodbelisario@gmail.com
 
