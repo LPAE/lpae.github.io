@@ -34,7 +34,7 @@ Este controle pode ser feito diretamente no Software do Arducopter disponível e
 
 # Flame Well
 
-![Flame Well](https://github.com/LPAE/lpae.github.io/blob/master/estudos/DRONE/IMAGENS/flame%20weel.png) 
+![Flame Well](https://github.com/LPAE/lpae.github.io/blob/master/estudos/DRONE/IMAGENS/flame%20weel.png?raw=true) 
 
 A armação foi usado um Flame Weel F450 com 4 braços proporcionando melhor resistência ao impacto e também conduz a eletricidade necessária para todos os componentes eletrônicos, minimizando o número de fios.
 
