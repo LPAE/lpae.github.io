@@ -25,6 +25,8 @@ Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina - IF-SC
 Contato:
 rodbelisario@gmail.com
 
+-[Licença](./license)
+
 
 [Voltar](https://lpae.github.io/)
 
