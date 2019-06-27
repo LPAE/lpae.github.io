@@ -1,6 +1,6 @@
 # Repositório do [Projeto do Drone](https://github.com/Kallarari/DRONE-)
 
-[Voltar](https://lpae.github.io/)
+[Voltar](https://lpae.github.io/estudos/)
 
 - [Informações](./Informações/index.md)
 - [Configurações do aplicativo](./Informações/configurações.md)
@@ -20,5 +20,5 @@
 
 ![DRONE2](https://github.com/Kallarari/DRONE-/blob/master/WhatsApp%20Image%202019-05-31%20at%2015.27.40.jpeg?raw=true "CONTROLE DO DRONE")
 
-[Voltar](https://lpae.github.io/)
+[Voltar](https://lpae.github.io/estudos/)
 
