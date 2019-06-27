@@ -1,6 +1,6 @@
 # [Cubo de leds](https://github.com/Kallarari/lpae.github.io/tree/master/projetos/leds%20cube)
 
-[Voltar](https://lpae.github.io/)
+[Voltar](https://lpae.github.io/estudos/)
 
 Para ter acesso ao projeto clique no [link ](https://drive.google.com/open?id=0BxypEsuCzldFdzN6elYwenJZX1lJckE4ak5DdUZoNnk5ek1v)
 
@@ -31,5 +31,5 @@ rodbelisario@gmail.com
 -[Licença](./license)
 
 
-[Voltar](https://lpae.github.io/)
+[Voltar](https://lpae.github.io/estudos/)
 
