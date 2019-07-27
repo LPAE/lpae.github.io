@@ -9,8 +9,7 @@
 - [Estudos sobre o Projeto Integrador](./EstudosPI/index.md)
 - [Drone](./DRONE/index.md)
 - [Cubo de Leds](./Cubo/index.md)
+- [ROS](./ROS/index.md)
 
 ---
 [Voltar](https://lpae.github.io/)
-
-
