@@ -36,6 +36,8 @@ void setup()
     lcd.setCursor(0,0);lcd.print("                ");
     lcd.setCursor(0,1);lcd.print("...             ");
     delay(500);
+
+    // INIT ROS NODE  ================================
     nh.initNode();
     nh.advertise(chatter);
 }
