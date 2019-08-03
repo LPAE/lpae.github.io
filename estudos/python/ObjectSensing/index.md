@@ -1,4 +1,4 @@
-# [ObjectSensing](https://github.com/LPAE/lpae.github.io/tree/master/estudos/ObjectSensing)
+# ObjectSensing
 
 ## Ferramentas de Processamento:
 - [Dlib - python](./Dlib/index.md)
@@ -8,7 +8,9 @@
 - [ImgLab - Online](./ImgLab/index.md)
 - [Colabeler](./Colabeler/index.md)
 
-# Repositório [ObjectSensing](https://github.com/LPAE/lpae.github.io/tree/master/estudos/ObjectSensing)
+# [Repositório](https://github.com/LPAE/lpae.github.io/tree/master/estudos/python/ObjectSensing)
+
+---
 [Voltar](https://lpae.github.io/)
 
 
