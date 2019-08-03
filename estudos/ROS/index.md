@@ -1,4 +1,4 @@
-ROS é um conjunto de bibliotecas e ferramentas para construção de aplicações para robôs. De drivers até algoritmos de última geração e com poderosas ferramentas de desenvolvimento. ROS é OpenSource.
+**ROS** é um conjunto de bibliotecas e ferramentas para construção de aplicações para robôs. De drivers até algoritmos de última geração e com poderosas ferramentas de desenvolvimento. ROS é OpenSource.
 
 ## [ros.org](http://www.ros.org/)
 ## [wiki.ros.org](http://wiki.ros.org/)
@@ -14,6 +14,7 @@ ROS é um conjunto de bibliotecas e ferramentas para construção de aplicaçõe
 
 ### **Após alguns passos:**
 - [embarcados.com.br/**distribuicao-linux-ros**](https://www.embarcados.com.br/distribuicao-linux-ros/)
+
 # [**Exemplos Rosserial**](./rosserial/index.md)
 
 ---
