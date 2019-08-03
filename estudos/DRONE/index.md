@@ -10,5 +10,5 @@
 ![DRONE2](https://github.com/Kallarari/DRONE-/blob/master/WhatsApp%20Image%202019-05-31%20at%2015.27.40.jpeg?raw=true "CONTROLE DO DRONE")
 
 ---
-[Voltar](https://lpae.github.io/estudos/)
+[Voltar](https://lpae.github.io/)
 
