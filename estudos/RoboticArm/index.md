@@ -1,6 +1,9 @@
 # Repositório [RoboticArm](https://github.com/LPAE/lpae.github.io/tree/master/estudos/RoboticArm)
 [Fonte do Projeto](https://www.thingiverse.com/thing:1718984)
 
+# Artigos Correlacionados
+[ROS-based remote controlled robotic arm workcell](https://ieeexplore.ieee.org/document/7066281)
+
 ---
 [Voltar](https://lpae.github.io/)
 ![](./Simulation/fundamentals/arm_1.png)
