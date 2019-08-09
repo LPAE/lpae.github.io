@@ -12,7 +12,7 @@ O robô pode ser fonte alimentado com uma fonte de 24V, ao qual consome uma corr
 
 A garra existente no braço robótico foi projetada para uma fácil substituição, sendo mantida na horizontal para simplificar a sua calibração, além de reduzir o custo e a complexidade de eixos adicionais. 
 
-[Artigo do Projeto](./pdf/Braço Robótico - Robot Arm)
+[Artigo do Projeto](./pdf/Braço Robótico - Robot Arm.pdf)
 
 [Fonte do Projeto](https://www.thingiverse.com/thing:1718984)
 
