@@ -4,7 +4,7 @@ O cubo de leds é um circuito que consiste em uma composição de matrizes de di
 
 
 
-![](D:\Meus Documentos\Backup Trabalho\IFSC\LPAE\git_lpae\lpae.github.io\estudos\Cubo\Imagens\cubo.png)
+![](.\Imagens\cubo.png)
 
 
 
