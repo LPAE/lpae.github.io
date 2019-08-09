@@ -2,6 +2,7 @@
 
 ### Engenharia
 - [Projeto Integrador 2](./pi2_eng/index.md)
+- [Projeto Integrador 3](./pi3_eng/index.md)
 
 ### Técnologo
 - [Projeto Integrador 1](./pi1_tec/index.md)
@@ -9,7 +10,6 @@
 
 ---
 # [Estudos do Laboratório](./estudos/index.md).
-
 
 ---
 # Utilidades
