@@ -1,5 +1,13 @@
 # [Cubo de leds](https://github.com/Kallarari/lpae.github.io/tree/master/projetos/leds%20cube)
 
+O cubo de leds é um circuito que consiste em uma composição de matrizes de diodos leds que estão em um arranjo planar, ou seja, cada matriz ocupa um plano específico no eixo y. Sua ativação ocorre através do envio de dados binários (bits '0' ou '1') em uma entrada existente no registrador de deslocamento. Um exemplo do circuito é ilustrado abaixo.
+
+
+
+![](D:\Meus Documentos\Backup Trabalho\IFSC\LPAE\git_lpae\lpae.github.io\estudos\Cubo\Imagens\cubo.png)
+
+
+
 [Voltar](https://lpae.github.io/estudos/)
 
 Para ter acesso ao projeto clique no [link ](https://drive.google.com/open?id=0BxypEsuCzldFdzN6elYwenJZX1lJckE4ak5DdUZoNnk5ek1v)
