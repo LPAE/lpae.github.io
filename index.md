@@ -2,14 +2,15 @@
 
 ### Engenharia
 - [Projeto Integrador 2](./pi2_eng/index.md)
+- [Projeto Integrador 3](./pi3_eng/index.md)
 
 ### Técnologo
 - [Projeto Integrador 1](./pi1_tec/index.md)
-- [Deselvolvimento de Projeto](./DesProjeto_Tecnologo/index.md)
+- [Deselvolvimento de Projeto](./pje_tec/index.md)
 
 ---
-# [Estudos do Laboratório](./estudos/index.md).
-
+# [Notas Técnicas](./notas_tecnicas/index.md)
+# [Estudos do Laboratório](./estudos/index.md)
 
 ---
 # Utilidades
