@@ -14,8 +14,9 @@
 
 ---
 # Utilidades
-- [AltiumLibs](https://github.com/LPAE/lpae.github.io/tree/master/estudos/AltiumLibs)
+* [AltiumLibs](https://github.com/LPAE/lpae.github.io/tree/master/estudos/AltiumLibs)
 * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Git-Commands](https://github.com/joshnh/Git-Commands)
 
 ---
 # [Informações Gerais](./gerais/index.md)
