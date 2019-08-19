@@ -16,4 +16,4 @@ Python é uma linguagem de programação interpretada cuja filosofia enfatiza um
 - [Jogo Machine Revolution - Pygame e Tensorflow](https://github.com/lsmanoel/MachineRevolution)
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](https://lpae.github.io/estudos/)
