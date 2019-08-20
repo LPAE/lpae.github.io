@@ -4,5 +4,7 @@
 - [Pi Camera](./python_PiCamera/index.md)
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)
 

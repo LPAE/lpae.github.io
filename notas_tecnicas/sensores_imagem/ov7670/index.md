@@ -14,4 +14,6 @@
 * [Arduino Camera (OV7670) Tutorial (sem buffer FIFO) (teachmemicro.com)](https://www.teachmemicro.com/arduino-camera-ov7670-tutorial/)
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)
