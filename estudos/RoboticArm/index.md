@@ -1,7 +1,5 @@
 # Repositório [RoboticArm](https://github.com/LPAE/lpae.github.io/tree/master/estudos/RoboticArm)
 
-[Voltar](https://lpae.github.io/estudos/)
-
 Robot arm é um projeto *open* *source* desenvolvido por Florin Tobler, que consiste em um braço robótico produzido em sua íntegra em impressoras 3D. 
 
 Esse projeto é aberto a todos, tanto para a produção quanto para a modificação, apenas respeitando os termos de referência e não comercialização.
@@ -27,4 +25,6 @@ A garra existente no braço robótico foi projetada para uma fácil substituiç�
 ![20190219_164424](https://github.com/LPAE/lpae.github.io/blob/master/estudos/RoboticArm/imagens/Bra%C3%A7o%20img2.jpeg?raw=true)
 
 ---
-[Voltar](https://lpae.github.io/estudos/)
+[Voltar](./../index.md)
+[Home](https://lpae.github.io/)
+
