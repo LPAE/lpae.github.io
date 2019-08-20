@@ -1,7 +1,7 @@
 # Estudos
 
 - [Braço Robótico](./RoboticArm/index.md)
-- [Bancada Inteligente](https://github.com/LPAE/Bancada-Esteira)
+- [Bancada Inteligente](https://github.com/LPAE/bancada_inteligente)
 - [Theremin](./Theremin/index.md)
 - [Python](./python/index.md)
 - [Estudos sobre o Projeto Integrador](./EstudosPI/index.md)
