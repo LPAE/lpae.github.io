@@ -1,8 +1,9 @@
-# Sensores de Temperatura
+# Displays
 
-- [Sensores de temperatura infravermelho](./Sensor de Temperatura Infravermelho.md)
+- [Display gráfico 2.4 "TFT - ILI9341](./ili9341.md)
 
 ---
-[Voltar](./../index.md)
+[Voltar](./../)
+
 [Home](https://lpae.github.io/)
 

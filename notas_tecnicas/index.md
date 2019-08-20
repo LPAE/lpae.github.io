@@ -11,5 +11,6 @@
 * [Ethernet](./ethernet/index.md)
 
 ---
-[Voltar](./../index.md)
+[Voltar](./../)
+
 [Home](https://lpae.github.io/)
