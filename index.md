@@ -17,6 +17,7 @@
 * [AltiumLibs](https://github.com/LPAE/lpae.github.io/tree/master/estudos/AltiumLibs)
 * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Git-Commands](https://github.com/joshnh/Git-Commands)
+* [Tipos de Licenças de Software](http://demoiselle.sourceforge.net/process/ds/1.2.3-BETA1/ProcessoDemoisellePlugin/guidances/supportingmaterials/tiposLicencasSoftware_AD711F8B.html)
 
 ---
 # [Informações Gerais](./gerais/index.md)
