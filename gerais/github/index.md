@@ -17,6 +17,7 @@
 1. [Download do Git](https://git-scm.com/downloads)
 2. Git com interface gráfica: [GitKraken](https://support.gitkraken.com/)
 
-
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)

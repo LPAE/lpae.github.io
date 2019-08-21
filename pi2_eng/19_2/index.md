@@ -7,7 +7,9 @@ O projeto Integrador 2 nesse semestre consiste no desenvolvimento de um sistema 
 ![Conceito PI2](./img/Desenho_PI_Eng.png)
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)
 
 
 

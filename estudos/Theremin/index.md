@@ -10,8 +10,8 @@ O Theremin é um instrumento musical criado na década de 1920 pelo físico russ
 
 ![20190228_164937](./imagens/20190228_164937.jpg)
 
-
 ---
-[Voltar](./../index.md)
+[Voltar](./../)
+
 [Home](https://lpae.github.io/)
 

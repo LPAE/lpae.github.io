@@ -24,6 +24,4 @@
 ---
 # Perfil [github.com/LPAE](https://github.com/LPAE)
 
-**daelnifsclpae@gmail.com**
-
 [sites.florianopolis.ifsc.edu.br/lpae](http://sites.florianopolis.ifsc.edu.br/lpae/)

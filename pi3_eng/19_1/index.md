@@ -7,4 +7,6 @@
 - [Projeto-Turbidimetro](./Projeto-Turbidimetro/README.md) por **Daniel Pereira** e **Gustavo Scalco**
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)

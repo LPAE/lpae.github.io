@@ -1,6 +1,4 @@
 # Configurações do aplicativo.
-[Voltar](https://lpae.github.io/estudos/DRONE/)
-
 
 Para configurar o Arducopter você precisará de alguns aplicativos:
 - [Mission Planer](http://ardupilot.org/planner/index.html#home)
@@ -13,4 +11,8 @@ O arducopter tem uma interface bem simples e funcional. Mas é uma plataforma qu
 fazer um projeto completo. Segue uma lista com todos os componentes. O Arducopter se encaixa na categoria APM 2.x.
 [LISTA](http://ardupilot.org/copter/docs/common-autopilots.html#common-autopilots)
 
-[Voltar](https://lpae.github.io/estudos/DRONE/)
+---
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)
+

@@ -10,4 +10,6 @@
 - [ROS](./ROS/index.md)
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)

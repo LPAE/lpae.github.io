@@ -21,7 +21,8 @@ Aeronaves multirotores são Veículos Aéreos Não Tripulados (VANTs) que possue
 ![DRONE2](https://github.com/Kallarari/DRONE-/blob/master/WhatsApp%20Image%202019-05-31%20at%2015.27.40.jpeg?raw=true "CONTROLE DO DRONE")
 
 ---
-[Voltar](./../index.md)
+[Voltar](./../)
+
 [Home](https://lpae.github.io/)
 
 

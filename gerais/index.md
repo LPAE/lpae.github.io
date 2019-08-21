@@ -4,4 +4,6 @@
 * [Sobre o formato **Markdown**.](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)
