@@ -11,7 +11,9 @@
 # [Repositório](https://github.com/LPAE/lpae.github.io/tree/master/estudos/python/ObjectSensing)
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)
 
 
 

@@ -37,7 +37,8 @@ rodbelisario@gmail.com
 -[Licença](./license)
 
 ---
-[Voltar](./../index.md)
+[Voltar](./../)
+
 [Home](https://lpae.github.io/)
 
 

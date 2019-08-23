@@ -1,5 +1,4 @@
 # O Arducopter 
-[Voltar](https://lpae.github.io/estudos/DRONE/)
 
 O Arducopter é um APM (Arduino Pilot Meta), ou seja, um cotrolador de voo de código aberto semelhante a plataforma arduíno.
 
@@ -42,4 +41,8 @@ O design de quadro otimizado oferece muito espaço para um sistema de piloto aut
 
 Usando alta resistência placa de quadro PCB composto, o que torna a fiação de CES e bateria mais segura e mais fácil.
 
-[Voltar](https://lpae.github.io/estudos/DRONE/)
+---
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)
+

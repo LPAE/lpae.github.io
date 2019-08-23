@@ -25,6 +25,7 @@ A garra existente no braço robótico foi projetada para uma fácil substituiç�
 ![20190219_164424](https://github.com/LPAE/lpae.github.io/blob/master/estudos/RoboticArm/imagens/Bra%C3%A7o%20img2.jpeg?raw=true)
 
 ---
-[Voltar](./../index.md)
+[Voltar](./../)
+
 [Home](https://lpae.github.io/)
 

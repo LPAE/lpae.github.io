@@ -14,7 +14,9 @@ possível uma tomada de decisão criteriosa.
 # [Link do Repositório](https://github.com/LPAE/pi2_eng_19_1)
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)
 
 
 

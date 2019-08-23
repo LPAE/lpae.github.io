@@ -9,9 +9,15 @@
 2. [Noções Básicas sobre o Git](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)
 3. [**Guia de Instalação do Git**](https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459)
 
+# Guias Visuais
+1. [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+2. [A Grip On Git A simple, visual Git tutorial](https://agripongit.vincenttunru.com/)
+
 # Ferramentas
 1. [Download do Git](https://git-scm.com/downloads)
 2. Git com interface gráfica: [GitKraken](https://support.gitkraken.com/)
 
 ---
-[Voltar](https://lpae.github.io/)
+[Voltar](./../)
+
+[Home](https://lpae.github.io/)
