@@ -1,10 +1,14 @@
+<div style="text-align:center"><img src=".\img\logo.png" /></div>
+
 **ROS** é um conjunto de bibliotecas e ferramentas para construção de aplicações para robôs. De drivers até algoritmos de última geração e com poderosas ferramentas de desenvolvimento. ROS é OpenSource.
 
-![](.\img\logo.png)
+<div style="text-align:center"><img src=".\img\ros_lpae.jpeg" /></div>
 
-![](.\img\ros1.jpg)
+<div style="text-align:center"><img src=".\img\ros1.jpg" /></div>
 
-![](.\img\ros2.jpg)
+<div style="text-align:center"><img src=".\img\ros2.jpg" /></div>
+
+---
 
 ## [ros.org](http://www.ros.org/)
 
