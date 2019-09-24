@@ -11,6 +11,20 @@ O Theremin é um instrumento musical criado na década de 1920 pelo físico russ
 ![20190228_164937](./imagens/20190228_164937.jpg)
 
 ---
+**Lista de Artistas que utilizam o Theremin:**
+
+- Led Zeppelin - Whole Lotta Love;
+- Beach Boys - I Just Wasnt' Made For These Times, Good Vibrations, Wild Honey;
+- Pink Floyd - Echoes;
+- Supertramp - Hide In Your Shell, The Meaning;
+- Rolling Stones - Please Go Home, 2000 Light Years From Home;
+- Pixies - Velouria;
+- Garbage – Cup of Cofee;
+- Supergrass – Richard III;
+- Tesla - Edison's Medicine;
+- Pato Fu – Eu;
+- Mutantes - Dois Mil e Um.
+
 [Voltar](./../)
 
 [Home](https://lpae.github.io/)
