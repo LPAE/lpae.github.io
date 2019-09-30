@@ -1,4 +1,4 @@
-# [Bancada Inteligente](https://github.com/Kallarari/lpae.github.io/tree/master/projetos/bancada_ditatica)
+# [Bancada Didática](https://github.com/Kallarari/lpae.github.io/tree/master/projetos/bancada_ditatica)
 
 A bancada didática é uma proposta didático-pedagógica ao qual prevê a construção de uma estrutura que possa atender aos alunos matriculados nos cursos do Departamento Acadêmico de Eletrônica (IFSC), em especial aos que estão desenvolvendo projetos voltados ao controle de linhas de automatização industrial, tornando mais efetiva a formação desse profissional na área tecnológica, através de uma experiência prática. Um exemplo de uma possível aplicação para a bancada é a sua utilização nos projetos elaborados na disciplina de Projeto Integrador II da Engenharia Eletrônica, em que a temática aborda as tecnologias empregadas na indústria 4.0. 
 
