@@ -20,13 +20,13 @@ Para a utilização da bancada em projetos, a estrutura montada conta atualmente
 
 O tampo da bancada didática montada em perfil estrutural 20mm X 40mm, permite acoplar através de parafusos e porcas martelo o acoplamento de acessórios, para interagirem com a esteira transportadora, tornando os seus posicionamentos bastante flexíveis.
 
-![bancada_2](D:\Meus Documentos\Backup Trabalho\IFSC\LPAE\git_lpae\lpae.github.io\estudos\BancadaDidatica\imagens\bancada_2.jpg)
+![bancada_2](.\imagens\bancada_2.jpg)
 
 **Bancada Didática - Prévia da Montada**
 
 Para ter acesso ao projeto clique no [link ](https://github.com/LPAE/bancada_inteligente)
 
-Para ter acesso ao artigo do projeto clique no [link](.\artigo\.\imagens\Bancada-Didática-SNCT_2019.pdf)
+Para ter acesso ao artigo do projeto clique no [link](.\artigo\Bancada-Didática-SNCT_2019.pdf)
 
 
 
