@@ -26,7 +26,7 @@ O tampo da bancada didática montada em perfil estrutural 20mm X 40mm, permite a
 
 Para ter acesso ao projeto clique no [link ](https://github.com/LPAE/bancada_inteligente)
 
-Para ter acesso ao artigo do projeto clique no [link](.\artigo\Bancada-Didática-SNCT_2019.pdf)
+Para ter acesso ao *banner* do projeto clique no [link](.\artigo\Bancada-Didática-SNCT_2019.pdf)
 
 
 
