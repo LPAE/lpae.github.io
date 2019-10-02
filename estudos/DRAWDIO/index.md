@@ -1,19 +1,15 @@
 # OFICINA DE SOLDA - DRAWDIO
 
 <div style="text-align:right"><img src=".\img\solda_logo.png" /></div>
-
 DRAWDIO é um dispositivo que permite fazer música utilizando apenas papel e lápis. Este dispositivo é licenciado através da Creative Commons (CC BY-SA 3.0). 
 
 
 
 <div style="text-align:center"><img src=".\img\Drawdio_logo.png" /></div>
-
 Seu esquemático, croqui de montagem e modo de funcionamento são ilustrados na figura abaixo. Ele é composto por um circuito eletrônico que gera diferentes frequências, criando assim diversos tons musicai. O principal componente eletrônico utilizado no DRAWDIO e responsável pela geração destas frequências variadas é o circuito integrado 555. O esquemático do circuito está representado na figura abaixo. O circuito integrado 555 foi configurado para atuar como um multivibrador astável, utilizando para a  modulação da frequência a resistência variável formada entre o grafite do lápis e o corpo da pessoa que desenha. Então, quando é realizado um desenho no papel, as variações de pressão e espessura dos traços provocam variações na frequência do sinal elétrico de saída do circuito integrado 555, gerando também variações no som (em um alto-falante) e criando assim notas musicais. Foi utilizado um lápis com grafite 6B para a montagem deste dispositivo, pelo fato de apresentar propriedades de dureza inferiores aos HB e consequentemente promover uma maior condução no desenho (deposição de uma maior quantidade de grafite no papel). 
 
 <div style="text-align:center"><img src=".\img\esquematico.png" /></div>
-
-![](.\img\lapis.png)
-
+<div style="text-align:center"><img src=".\img\lapis.png" /></div>
 Para o correto funcionamento do DRAWDIO, é necessário que o corpo do usuário do dispositivo seja a passagem de corrente elétrica (corrente elétrica na ordem de 2 μA). Assim, é necessário manter um de seus dedos em uma parte do desenho e o lápis em outra parte, completando a então a condução necessária. 
 
 ---
@@ -24,36 +20,19 @@ No Instituto Federal de Santa Catarina - campus Florianópolis foram realizadas 
 
 As imagem abaixo mostram o protótipo devidamente montado.
 
-![](.\img\DSC02446.jpg)
+<div style="text-align:center"><img src=".\img\DSC02446.jpg" /></div>
 
+<div style="text-align:center"><img src=".\img\DSC02442.jpg" /></div>
 
+<div style="text-align:center"><img src=".\img\DSC02439.jpg" /></div>
 
-![](.\img\DSC02442.jpg)
+<div style="text-align:center"><img src=".\img\DSC02438.jpg" /></div>
 
+<div style="text-align:center"><img src=".\img\DSC02440.jpg" /></div>
 
+<div style="text-align:center"><img src=".\img\rIMG_3072.jpg" /></div>
 
-![](.\img\DSC02439.jpg)
-
-
-
-![](.\img\DSC02438.jpg)
-
-
-
-![](.\img\DSC02440.jpg)
-
-
-
-![](.\img\DSC02441.jpg)
-
-
-
-![](.\img\rIMG_3072.jpg)
-
-
-
-![](.\img\rIMG_3075.jpg)
-
+<div style="text-align:center"><img src=".\img\rIMG_3075.jpg" /></div>
 ---
 
 Para ter acesso ao site que originou o projeto clique no [link ](https://drawdio.com/)
