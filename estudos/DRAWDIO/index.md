@@ -20,7 +20,7 @@ No Instituto Federal de Santa Catarina - campus Florianópolis foram realizadas 
 
 As imagem abaixo mostram o protótipo devidamente montado.
 
-![PCB DRAWDIO Montado - face 1](./img/DSC02446.jpg)
+![PCB DRAWDIO Montado - face 1](./img/DSC02446.JPG)
 
 
 
