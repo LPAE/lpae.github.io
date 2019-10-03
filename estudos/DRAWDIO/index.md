@@ -20,31 +20,31 @@ No Instituto Federal de Santa Catarina - campus Florianópolis foram realizadas 
 
 As imagem abaixo mostram o protótipo devidamente montado.
 
-<div style="text-align:right"><img src=".\img\DSC02446.JPG" /></div>
+<div style="text-align:center"><img src=".\img\DSC02446.JPG" /></div>
 
 
 
-<div style="text-align:right"><img src=".\img\DSC02442.JPG" /></div>
+<div style="text-align:center"><img src=".\img\DSC02442.JPG" /></div>
 
 
 
-<div style="text-align:right"><img src=".\img\DSC02438.JPG" /></div>
+<div style="text-align:center"><img src=".\img\DSC02438.JPG" /></div>
 
 
 
-<div style="text-align:right"><img src=".\img\DSC02439.JPG" /></div>
+<div style="text-align:center"><img src=".\img\DSC02439.JPG" /></div>
 
 
 
-<div style="text-align:right"><img src=".\img\DSC02440.JPG" /></div>
+<div style="text-align:center"><img src=".\img\DSC02440.JPG" /></div>
 
 
 
-<div style="text-align:right"><img src=".\img\rIMG_3072.JPG" /></div>
+<div style="text-align:center"><img src=".\img\rIMG_3072.JPG" /></div>
 
 
 
-<div style="text-align:right"><img src=".\img\rIMG_3075.JPG" /></div>
+<div style="text-align:center"><img src=".\img\rIMG_3075.JPG" /></div>
 
 
 
