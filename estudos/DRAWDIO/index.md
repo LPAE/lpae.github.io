@@ -20,25 +20,35 @@ No Instituto Federal de Santa Catarina - campus Florianópolis foram realizadas 
 
 As imagem abaixo mostram o protótipo devidamente montado.
 
+
+
 <div style="text-align:center"><img src=".\img\DSC02446.jpg" /></div>
+
 
 
 <div style="text-align:center"><img src=".\img\DSC02442.jpg" /></div>
 
 
+
 <div style="text-align:center"><img src=".\img\DSC02439.jpg" /></div>
+
 
 
 <div style="text-align:center"><img src=".\img\DSC02438.jpg" /></div>
 
 
+
 <div style="text-align:center"><img src=".\img\DSC02440.jpg" /></div>
+
 
 
 <div style="text-align:center"><img src=".\img\rIMG_3072.jpg" /></div>
 
 
+
 <div style="text-align:center"><img src=".\img\rIMG_3075.jpg" /></div>
+
+
 ---
 
 Para ter acesso ao site que originou o projeto clique no [link ](https://drawdio.com/)
