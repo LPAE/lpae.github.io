@@ -20,31 +20,31 @@ No Instituto Federal de Santa Catarina - campus Florianópolis foram realizadas 
 
 As imagem abaixo mostram o protótipo devidamente montado.
 
-![PCB DRAWDIO Montado - face 1](./img/DSC02446.JPG)
+<div style="text-align:right"><img src=".\img\DSC02446.JPG" /></div>
 
 
 
-![PCB DRAWDIO Montado - face 2](./img/DSC02442.JPG)
+<div style="text-align:right"><img src=".\img\DSC02442.JPG" /></div>
 
 
 
-![PCB DRAWDIO - face 1](.\img\DSC02438.JPG)
+<div style="text-align:right"><img src=".\img\DSC02438.JPG" /></div>
 
 
 
-![PCB DRAWDIO - face 2](.\img\DSC02439.JPG)
+<div style="text-align:right"><img src=".\img\DSC02439.JPG" /></div>
 
 
 
-![DRAWDIO Montado](.\img\DSC02440.JPG)
+<div style="text-align:right"><img src=".\img\DSC02440.JPG" /></div>
 
 
 
-![Montagem do DRAWDIO na oficina de solda ](.\img\rIMG_3072.JPG)
+<div style="text-align:right"><img src=".\img\rIMG_3072.JPG" /></div>
 
 
 
-![Montagem do DRAWDIO na oficina de solda - Solda Realizada](.\img\rIMG_3075.JPG)
+<div style="text-align:right"><img src=".\img\rIMG_3075.JPG" /></div>
 
 
 
