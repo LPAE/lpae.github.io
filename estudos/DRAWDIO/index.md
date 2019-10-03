@@ -24,27 +24,27 @@ As imagem abaixo mostram o protótipo devidamente montado.
 
 
 
-![PCB DRAWDIO Montado - face 2](.\img\DSC02442.jpg)
+![PCB DRAWDIO Montado - face 2](./img/DSC02442.JPG)
 
 
 
-![PCB DRAWDIO - face 1](.\img\DSC02438.jpg)
+![PCB DRAWDIO - face 1](.\img\DSC02438.JPG)
 
 
 
-![PCB DRAWDIO - face 2](.\img\DSC02439.jpg)
+![PCB DRAWDIO - face 2](.\img\DSC02439.JPG)
 
 
 
-![DRAWDIO Montado](.\img\DSC02440.jpg)
+![DRAWDIO Montado](.\img\DSC02440.JPG)
 
 
 
-![Montagem do DRAWDIO na oficina de solda ](.\img\rIMG_3072.jpg)
+![Montagem do DRAWDIO na oficina de solda ](.\img\rIMG_3072.JPG)
 
 
 
-![Montagem do DRAWDIO na oficina de solda - Solda Realizada](.\img\rIMG_3075.jpg)
+![Montagem do DRAWDIO na oficina de solda - Solda Realizada](.\img\rIMG_3075.JPG)
 
 
 
