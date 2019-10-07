@@ -27,10 +27,9 @@
 - [embarcados.com.br/**distribuicao-linux-ros**](https://www.embarcados.com.br/distribuicao-linux-ros/)
 - [downloads.**ubiquityrobotics.com/pi**](https://downloads.ubiquityrobotics.com/pi.html)
 - [medium.com/@rosbots/**ready-to-use-image-raspbian-stretch-ros-opencv**](https://medium.com/@rosbots/ready-to-use-image-raspbian-stretch-ros-opencv-324d6f8dcd96)
-# [**Exemplos Rosserial**](./rosserial/index.md)
 
----
-# [**catkin_ws** do LPAE](https://github.com/LPAE/catkin_ws)
+# [**Exemplos Rosserial**](./exemplos/index.md)
+
 ###### [O que é **catkin_ws**?](http://wiki.ros.org/catkin/workspaces)
 
 ---
