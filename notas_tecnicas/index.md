@@ -7,7 +7,7 @@
 * [Displays](./displays/)
 * [Bluetooth](./bluetooth/)
 * [RFID](./rfid/)
-* [Teclados](./teclados/)
+* [Teclado Matricial](./teclados/)
 * [Ethernet](./ethernet/)
 
 ---
