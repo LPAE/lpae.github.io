@@ -8,11 +8,11 @@ A nova proposta para o projeto integrador, levando em consideração as pandemia
 
 
 
-![Conceito PI2](./img/irrigacao.png)
+![Conceito PI2](./img/irrigacao.jpg)
 
 
 
-![foto2 PI2](./img/esquema_irrigacao.png)
+![foto2 PI2](./img/esquema_irrigacao.jpg)
 
 
 
