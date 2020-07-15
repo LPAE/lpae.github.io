@@ -2,13 +2,16 @@
 
 # [Link do Repositório](https://github.com/LPAE/pi2_eng_20_1)
 
-O projeto Integrador 2 nesse semestre consiste no desenvolvimento de um sistema de monitoramento ambiental.
+**Proposta para as Atividades Não Presenciais**
 
-![foto PI2](./img/estacao_1.jpg)
+A nova proposta para o projeto integrador, levando em consideração as pandemia de COVID-19, é a elaboração de um sistema de irrigação automatizada.
 
-![foto2 PI2](./img/estacao_2.jfif)
+![foto2 PI2](./img/irrigacao.png)
 
----
+![foto2 PI2](./img/esquema_irrigacao.png)
+
+
+
 [Voltar](./../)
 
 [Home](https://lpae.github.io/)
