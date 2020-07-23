@@ -6,22 +6,16 @@
 
 A nova proposta para o projeto integrador, levando em consideração as pandemia de COVID-19, é a elaboração de um sistema de irrigação automatizada.
 
-
+**Exemplos de setup para o sistema de Irrigação**
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div style="text-align:center"><img src=".\img\irrigacao.png" />
 
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div style="text-align:center"><img src=".\img\esquema_irrigacao.png" />
 
-
-
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 [Voltar](./../)
 
