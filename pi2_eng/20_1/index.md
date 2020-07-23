@@ -8,12 +8,13 @@ A nova proposta para o projeto integrador, levando em consideração as pandemia
 
 
 
-<div style="text-align:center"><img src=".\img\irrigacao.jpg" />
+<div style="text-align:center"><img src=".\img\irrigacao.png" />
 
 
 
 
-<div style="text-align:center"><img src=".\img\esquema_irrigacao.jpg" />
+
+<div style="text-align:center"><img src=".\img\esquema_irrigacao.png" />
 
 
 
