@@ -18,9 +18,6 @@ A nova proposta para o projeto integrador, levando em consideração as pandemia
 
 
 
----
-
-# [Home](https://lpae.github.io/)
 
 
 
