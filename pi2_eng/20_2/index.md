@@ -4,7 +4,7 @@
 
 **Proposta para as Atividades Não Presenciais**
 
-A nova proposta para o projeto integrador, levando em consideração as pandemia de COVID-19, é a elaboração de um sistema de automação residencial (Domótica).
+A proposta para o projeto integrador, levando em consideração a pandemia de COVID-19, é a elaboração de um sistema de automação residencial (Domótica).
 
 ![Conceito PI2](./img/domotica_1.jpg)
 
