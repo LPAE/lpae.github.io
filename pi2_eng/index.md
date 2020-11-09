@@ -6,8 +6,10 @@ O objeto de estudo do Projeto Integrador II do Curso de Engenharia Eletr√¥nica √
 - [github.com/LPAE/**pi2_eng_19_1**](./19_1/index.md)
 - [github.com/LPAE/**pi2_eng_19_2**](./19_2/index.md)
 - [github.com/LPAE/**pi2_eng_20_1**](./20_1/index.md)
+- [github.com/LPAE/**pi2_eng_20_2**](./20_2/index.md)
 
 ---
 [Voltar](./../)
 
 [Home](https://lpae.github.io/)
+
