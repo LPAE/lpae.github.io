@@ -8,7 +8,7 @@ A proposta da aluna Marieli Matos para o Projeto Integrador 3 da Engenharia Elet
 
 
 
-# [Link do Repositório](https://github.com/LPAE/Estacionamento-Inteligente)
+# [Link do Repositório](https://github.com/LPAE/pi3_eng_20_1)
 
 ---
 [Voltar](./../)
