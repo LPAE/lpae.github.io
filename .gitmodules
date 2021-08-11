@@ -1,0 +1,4 @@
+[submodule "cdio"]
+	path = cdio
+	url = https://github.com/LPAE/cdio.git
+	branch = page
