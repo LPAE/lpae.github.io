@@ -12,8 +12,16 @@
 - [Deselvolvimento de Projeto](./pje_tec/index.md)
 
 ---
-# [Notas Técnicas](./notas_tecnicas/index.md)
-# [Estudos do Laboratório](./estudos/index.md)
+
+## Informações técnicas
+
+* [Tutorial Arduino](https://github.com/LPAE/arduino_tutorial)
+  - [Vídeo](https://youtu.be/rWyu5DJL1LM)
+* [Tutorial GitHub](https://github.com/xtarke/git_tutorial)
+  - [Vídeo](https://youtu.be/1LAtsmVvuXY)
+* [Notas Técnicas](./notas_tecnicas/index.md)
+* [Estudos do Laboratório](./estudos/index.md)
+
 
 ---
 # Utilidades
@@ -23,10 +31,10 @@
 * [Tipos de Licenças de Software](http://demoiselle.sourceforge.net/process/ds/1.2.3-BETA1/ProcessoDemoisellePlugin/guidances/supportingmaterials/tiposLicencasSoftware_AD711F8B.html)
 
 ---
-# [Informações Gerais](./gerais/index.md)
+## [Informações Gerais](./gerais/index.md)
 
 ---
-# Perfil [github.com/LPAE](https://github.com/LPAE)
+## Perfil [github.com/LPAE](https://github.com/LPAE)
 
 ---
-# [Voltar para o site principal do laboratório](<http://sites.florianopolis.ifsc.edu.br/lpae/>)
+## [Voltar para o site principal do laboratório](<http://sites.florianopolis.ifsc.edu.br/lpae/>)
