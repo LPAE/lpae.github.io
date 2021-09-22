@@ -1,4 +1,6 @@
-# Projetos Integradores
+# Laboratório de Pesquisa Avançada em Eletrônica
+
+## Projetos Integradores
 
 ### Engenharia
 - [Projeto Integrador 2](./pi2_eng/index.md)
@@ -10,7 +12,7 @@
 
 ---
 
-# Informações técnicas
+## Informações técnicas
 
 * [Tutorial Arduino](https://github.com/LPAE/arduino_tutorial)
   - [Vídeo](https://youtu.be/rWyu5DJL1LM)
@@ -21,21 +23,21 @@
 * [Notas Técnicas](./notas_tecnicas/index.md)
 * [Estudos do Laboratório](./estudos/index.md)
 
-# Bibliotecas de microcontroladores
+## Bibliotecas de microcontroladores
 
 * [AVR](https://github.com/xtarke/avrlibs)
 * [MSP430](https://github.com/xtarke/msplibs)
 * [Implementação soft-core RISC-V](https://github.com/xtarke/riscv-multicycle)
 
-# Máquinas CNCs
+## Máquinas CNCs
 
 * [Repositório](https://github.com/xtarke/cncs)
 
-# Buggy 4x4
+## Buggy 4x4
 
 * [Repositório](https://github.com/xtarke/automated_buggy)
 
-# Exemplos
+## Exemplos
 
 * [Programação C](https://github.com/xtarke/programacao/tree/master/prc20304)
   - [Estrutura de dados](https://github.com/xtarke/programacao/tree/master/prg22105)
@@ -43,7 +45,7 @@
 * [Códigos VHDL](https://github.com/xtarke/pld)
 
 ---
-# Utilidades
+## Utilidades
 
 * [AltiumLibs](https://github.com/LPAE/lpae.github.io/tree/master/estudos/AltiumLibs)
 * [Tipos de Licenças de Software](http://demoiselle.sourceforge.net/process/ds/1.2.3-BETA1/ProcessoDemoisellePlugin/guidances/supportingmaterials/tiposLicencasSoftware_AD711F8B.html)
