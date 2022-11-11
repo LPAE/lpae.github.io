@@ -6,7 +6,7 @@
 
 **Veículo Autônomo**
 
-Neste semestre o tema do Projeto Integrador 2 é o Controle de um Veículo Autônomo. Os seguintes foram propostos: 
+Neste semestre o tema do Projeto Integrador 2 é o Controle de um Veículo Autônomo. Os seguintes objetivos foram propostos utilizando a metodologia CDIO: 
 - Controlar o movimento do veículo utilizando a tecnologia Bluetooth, mediante um telefone celular.
 - Incrementar o sistema de controle do veículo com a tecnologia Tracking Module para, de forma autônoma, seguir uma determinada trajetória.
 - Agregar ao sistema de controle do veículo a tecnologia Ultrasonic HC-SR04 para desviar de obstáculos, em sua trajetória.
