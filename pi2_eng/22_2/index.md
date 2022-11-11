@@ -11,7 +11,7 @@ Neste semestre o tema do Projeto Integrador 2 é o Controle de um Veículo Autô
 - Incrementar o sistema de controle do veículo com a tecnologia Tracking Module para, de forma autônoma, seguir uma determinada trajetória.
 - Agregar ao sistema de controle do veículo a tecnologia Ultrasonic HC-SR04 para desviar de obstáculos, em sua trajetór
 
-![Conceito PI2](./img/veiculo.jpg)
+![Conceito PI2](./img/veiculo.png)
 
 ------------------------------------------
 
