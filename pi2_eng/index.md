@@ -11,6 +11,7 @@ O objeto de estudo do Projeto Integrador II do Curso de Engenharia Eletr√¥nica √
 - [github.com/LPAE/**pi2_eng_21_2**](./21_2/index.md)
 - [github.com/LPAE/**pi2_eng_22_1**](./22_1/index.md)
 - [github.com/LPAE/**pi2_eng_22_2**](./22_2/index.md)
+- [github.com/LPAE/**pi2_eng_24_1**](./24_1/index.md)
 
 ---
 [Voltar](./../)
